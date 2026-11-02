@@ -1,0 +1,15 @@
+# Managed by Spec Kit
+.specify/
+.claude/
+
+# Docs are hand-formatted; table re-padding creates noisy diffs
+*.md
+*.MD
+
+# Generated
+android/
+ios/
+.expo/
+dist/
+coverage/
+package-lock.json
